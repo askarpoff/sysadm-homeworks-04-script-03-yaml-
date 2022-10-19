@@ -80,33 +80,8 @@ while(True):
     ```
 
 ### Вывод скрипта при запуске при тестировании:
-```
-/bin/python3 /home/debian/4.py
-IP не изменился: drive.google.com 142.250.150.194
-Внимание!
-IP изменился: mail.google.com был 64.233.165.19 - стал 64.233.165.18
-Внимание!
-IP изменился: google.com был 64.233.162.139 - стал 64.233.162.138
-IP не изменился: drive.google.com 142.250.150.194
-Внимание!
-IP изменился: mail.google.com был 64.233.165.18 - стал 64.233.165.83
-Внимание!
-IP изменился: google.com был 64.233.162.138 - стал 64.233.162.100
-IP не изменился: drive.google.com 142.250.150.194
-Внимание!
-IP изменился: mail.google.com был 64.233.165.83 - стал 64.233.165.17
-Внимание!
-IP изменился: google.com был 64.233.162.100 - стал 64.233.162.113
-IP не изменился: drive.google.com 142.250.150.194
-Внимание!
-IP изменился: mail.google.com был 64.233.165.17 - стал 64.233.165.19
-Внимание!
-IP изменился: google.com был 64.233.162.113 - стал 64.233.162.101
-^CTraceback (most recent call last):
-  File "/home/debian/4.py", line 32, in <module>
-    time.sleep(5)
-KeyboardInterrupt
-```
+![image](https://user-images.githubusercontent.com/108946489/196809901-63f58efb-3ec3-4422-898f-6944c21977fe.png)
+
 
 ### json-файл(ы), который(е) записал ваш скрипт:
 ```json
