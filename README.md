@@ -77,13 +77,11 @@ while(True):
             yaml.dump(hosts, fp_yaml, explicit_start=True, explicit_end=True)
                 
     time.sleep(5)
-    ```
+```
 
 ### Вывод скрипта при запуске при тестировании:
-```
-
 ![image](https://user-images.githubusercontent.com/108946489/196809901-63f58efb-3ec3-4422-898f-6944c21977fe.png)
-```
+
 
 ### json-файл(ы), который(е) записал ваш скрипт:
 ```json
